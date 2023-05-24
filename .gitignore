@@ -1,0 +1,6 @@
+node_modules
+conversations
+public
+speech
+.env
+model.pt
